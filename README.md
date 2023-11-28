@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 Clone the repository:
 
 ```bash
-  git clone https://github.com/SergioMolano/Rick-And-Morty-Front-Wiki.git
+  git clone https://github.com/SergioMolano/Rick-And-Morty-Wiki.git
 ```
 
 Navigate to the project directory:
