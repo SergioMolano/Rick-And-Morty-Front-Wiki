@@ -1,4 +1,4 @@
-## Overview
+## Rick and Morty Wiki
 This project is a Rick and Morty character visualization tool built using Next.js and deployed on Versel. It allows users to explore and view information about various characters from the popular animated TV series Rick and Morty.
 
 ## Table of Contents
